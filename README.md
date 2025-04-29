@@ -13,7 +13,7 @@
 
 
 1. **Posizionare il progetto**
-   - Copiare tutta la cartella `gestione_centro_sportivo/` dentro `htdocs/` di XAMPP.
+   - Copiare tutta la cartella `centro_sportivo_php_slim/` dentro `htdocs/` di XAMPP.
 
 2. **Configurazione ambiente**
    - Copiare `.env.example` e rinominarlo `.env`.

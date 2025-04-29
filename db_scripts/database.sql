@@ -1,6 +1,6 @@
 -- Creazione database
-CREATE DATABASE IF NOT EXISTS gestione_centro_sportivo CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE gestione_centro_sportivo;
+CREATE DATABASE IF NOT EXISTS centro_sportivo_php_slim CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE centro_sportivo_php_slim;
 
 -- Tabella utenti
 CREATE TABLE utenti (
